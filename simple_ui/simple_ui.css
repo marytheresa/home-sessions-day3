@@ -1,0 +1,72 @@
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+}
+
+#float_right li {
+	float: right;
+}
+
+#center li {
+	display: inline;
+	left: 500;
+}
+
+li a:hover {
+	border-bottom: 1px solid #a2a2a2;
+}
+
+.site-nav__link {
+	display: block;
+	text-decoration: none;
+	padding: 5px;
+	white-space: nowrap;
+	color: #333;
+	font-weight: 900;
+}
+
+.textBox {
+	background-color: #FFFFFF;
+	text-align: center;
+}
+
+.center {
+	text-align: center;
+}
+
+
+.button {
+	display: inline;
+	width: 215px;
+	height: 25px;
+	background: #BEBEBE;
+	padding: 10px;
+	text-align: center;
+	border-radius: 5px;
+	color: white;
+	font-weight: bold;
+	margin: 10px 10px 10px 10px;
+}
+
+.logo {
+	height: 200px;
+	position: relative;
+}
+
+#theElement {
+	text-align: center;
+	background-color: #000000;
+	position: absolute;
+	bottom: 0;
+	left: 500; 
+}
+
+.clickable {
+	height: 20px;
+}
+
+
+
+
+
